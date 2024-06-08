@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.image{width: 200px;border: 20px solid dodgerblue;}
+.MKG{display: flex;flex-direction: row;}
+.MKG div{width: 700px;}
+#id1{font-weight: bolder;}
+#video1{float: left;margin-left: 300px;}
+#vid1_para{font-size: 2rem;}
+#MKG_vid{display: flex;flex-direction: row;}
+.JN{display: flex;flex-direction: row;}
+.JN div{width: 700px;}
+#JN_audio{float: right;margin-right: 350px;}
+.SCB{display: flex;flex-direction: row;}
+.SCB div{width: 700px;}
